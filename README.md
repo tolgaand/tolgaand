@@ -1,7 +1,7 @@
 ### Hi there, I'm Tolga - tolgaand [tolgacaglayan.xyz][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://tolgacaglayan.xyz)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=tolgaand)
+[![Website](https://img.shields.io/website?label=tolgacaglayan.xyz&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://tolgacaglayan.xyz)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tolgaandx?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=tolgaandx)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
@@ -49,18 +49,18 @@
 ---
 
 
-<details>
+<!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
+  -->
+<!--START_SECTION:activity
 1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-<!--END_SECTION:activity-->
+-END_SECTION:activity-->
 
-</details>
+<!-- </details> -->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
